@@ -9,7 +9,7 @@ There is a little hand that will guide you through the room each time you select
 There are two modes in which this game can be played:
 
 1: If you LEFT click on the picture, the corresponded sound of the weapon will be played as well as a little zoom in will be generated. If you RIGHT click, the sound will also be played but this time it will zoom out. 
-The purpose of the game is to experience the corresponded sounds as well as trying to keep all the wepons allign with the screen.
+The purpose of the mode is to experience the corresponded sounds as well as trying to keep all the weapons aligned with the screen.
 
 2: You will be able to just play and enjoy the sounds of the weapons by pressing the first initial letter of each weapon. 
 Example: if the weponf is called Knife, you will be able to play its sound by pressing the "K" key. 
