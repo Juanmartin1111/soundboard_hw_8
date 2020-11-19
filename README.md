@@ -12,7 +12,7 @@ There are two modes in which this game can be played:
 The purpose of the mode is to experience the corresponded sounds as well as trying to keep all the weapons aligned with the screen.
 
 2: You will be able to just play and enjoy the sounds of the weapons by pressing the first initial letter of each weapon. 
-Example: if the weponf is called Knife, you will be able to play its sound by pressing the "K" key. 
+Example: if the weapon is called Knife, you will be able to play its sound by pressing the "K" key. 
 
 - To play you can use the following commands:
 
