@@ -1,8 +1,10 @@
 # soundboard_hw_8
 
-# Welcome to the weapons gunshop. This game focuses on showing you nine different type of weapons and its unique sound. Each weapon its represented by a picture as well as its name and unique sound.
-# You will be able to click on the picture and get the sound as well as press the key of the first initial letter of the weapon to play the corresponded sound. 
-# Last,there is a little hand that will guide you through the room each time you select a picture. (This feature is a little off since the hand looks like is not corresponding well with the clicks).
+# Welcome to the weapons gunshop. This game focuses on showing you nine different type of weapons and its unique sound.
+
+Each weapon its represented by a picture as well as its name and unique sound.
+You will be able to click on the picture and get the sound as well as press the key of the first initial letter of the weapon to play the corresponded sound. 
+Last,there is a little hand that will guide you through the room each time you select a picture. (This feature is a little off since the hand looks like is not corresponding well with the clicks).
 
 There are two modes in which this game can be played:
 
